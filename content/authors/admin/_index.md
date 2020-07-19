@@ -35,15 +35,15 @@ social:
   link: https://github.com/gcushen
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Cultural Anthropology
+    institution: University of Hamburg
+    year: "2021"
+  - course: MRes in Library and Information Science
+    institution: University of Lille
+    year: "2016"
+  - course: BA in Business Information Systems
+    institution: Swinburne University of Technology
     year: "2012"
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: "2009"
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: "2008"
 email: ''
 user_groups:
 - Researchers
