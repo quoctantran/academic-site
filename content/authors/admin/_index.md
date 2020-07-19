@@ -16,24 +16,24 @@ interests:
 - Digital Infrastructure
 - Digital Cultural Heritage
 social:
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Quoc_Tan_Tran
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/qtantran/
-- icon: envelope
-  icon_pack: fas
-  link: "#contact"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/qtantran
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Quoc_Tan_Tran
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Lev6PMwAAAAJ&hl=en
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3533-5858
+- icon: envelope
+  icon_pack: fas
+  link: "#contact"
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/qtantran
 education:
   courses:
   - course: PhD in Cultural Anthropology
