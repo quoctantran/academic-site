@@ -8,7 +8,7 @@ summary: This will be the first post
 header:
   caption: ""
   image: ""
-featured: true
+featured: false
 tags:
   - STS
 categories:
