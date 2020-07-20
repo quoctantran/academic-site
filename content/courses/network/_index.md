@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: An Example Course 222
+summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials. 111
 weight: 1
 
 # Page metadata.
