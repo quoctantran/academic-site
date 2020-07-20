@@ -1,5 +1,5 @@
 ---
-title: “Networked culture: Information and network society”
+title: Networked culture: Information and network society
 linktitle: Tips 1-2
 toc: true
 type: docs
