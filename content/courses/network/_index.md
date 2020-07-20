@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
+linktitle: “Networked culture: Information and network society” (Winter semester 2019/20)
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 
