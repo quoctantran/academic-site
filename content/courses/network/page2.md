@@ -1,5 +1,5 @@
 ---
-title: Example Page 2
+title: Session 2
 linktitle: Tips 3-4
 toc: true
 type: docs
