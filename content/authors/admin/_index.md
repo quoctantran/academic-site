@@ -8,8 +8,7 @@ organizations:
 superuser: true
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include science and technology studies, digital infrastructure, and digital cultural heritage.
 interests:
 - Science and Technology Studies
 - Anthropology of Knowledge
@@ -28,12 +27,12 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3533-5858
-#- icon: envelope
-#  icon_pack: fas
-#  link: "#contact"
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/qtantran
+- icon: envelope
+  icon_pack: fas
+  link: mailto:quoc-tan.tran@uni-hamburg.de
+- icon: cv
+  icon_pack: ai
+  link: https://tantran.netlify.app/home/Tan_Tran_CV.pdf
 education:
   courses:
   - course: PhD in Cultural Anthropology
