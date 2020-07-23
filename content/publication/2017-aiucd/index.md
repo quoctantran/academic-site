@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In F. Ciotti & G. Crupi (Eds.), *AIUCD 2017 Conference&#58; Il telescopio inverso&#58; Big data e distant reading nelle discipline umanistiche* (pp. 161–166). Florence&#58; Associazione per l’Informatica Umanistica e la Cultura Digitale
+publication: In F. Ciotti & G. Crupi (Eds.), *AIUCD 2017 Conference&#58; Il telescopio inverso&#58; Big data e distant reading nelle discipline umanistiche* (pp. 161–166). Florence&#58; Associazione per l’Informatica Umanistica e la Cultura Digitale.
 publication_short: In F. Ciotti & G. Crupi (Eds.), *AIUCD 2017 Conference&#58; Il telescopio inverso&#58; Big data e distant reading nelle discipline umanistiche* (pp. 161–166). Florence&#58; AIUCD
 
 abstract: In this paper, we attempt to trace the emergence of Digital Humanities (DH) through ten special and thematic issues of French academic journals. The aim is to map the emerging practices and the dynamics of this phenomenon, in terms of research, knowledge production and knowledge dissemination, and the modalities that allow DH to develop new social and editorial assignments.
