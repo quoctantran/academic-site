@@ -16,7 +16,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In F. Ribeiro & M. E. Cerveira (Eds.), *Advances in Knowledge Organization:\ Vol. 16. Challenges and Opportunities for Knowledge Organization in the Digital Age:\ Proceedings of the Fifteenth Interantional ISKO Conference 9-11 July 2018 Porto, Portugal* (pp. 624–632). Würzburg:\ Ergon. 
-publication_short: In F. Ciotti & G. Crupi (Eds.), *AIUCD 2017 Conference&#58; Il telescopio inverso&#58; Big data e distant reading nelle discipline umanistiche* (pp. 161–166). Florence&#58; AIUCD
+publication_short: In F. Ribeiro & M. E. Cerveira (Eds.), *Advances in Knowledge Organization:\ Vol. 16. Challenges and Opportunities for Knowledge Organization in the Digital Age. Würzburg:\ Ergon 
 
 abstract: In this paper, we attempt to trace the emergence of Digital Humanities (DH) through ten special and thematic issues of French academic journals. The aim is to map the emerging practices and the dynamics of this phenomenon, in terms of research, knowledge production and knowledge dissemination, and the modalities that allow DH to develop new social and editorial assignments.
 
@@ -32,9 +32,9 @@ featured: true
 links:
 - name: Conference
   url: http://www.iskoiberico.org/about-isko-porto-2018/
-- name: slides
+- name: Slides
   url: 
-url_pdf: 
+url_pdf: publication/2018-isko/2018-isko.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

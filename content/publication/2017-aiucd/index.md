@@ -29,8 +29,10 @@ tags:
 featured: true
 
 links:
+- name: Conference
+  url: http://aiucd2017.aiucd.it
 - name: Slides
-  url: publication/2017-aiucd/slides.pdf
+  url: publication/2017-aiucd/2017-aiucd-slides.pdf
 url_pdf: http://amsacta.unibo.it/5885/1/AIUCD_2017_BoA.pdf
 #url_code: '#'
 #url_dataset: '#'
