@@ -24,7 +24,7 @@ abstract: In this paper, we attempt to trace the emergence of Digital Humanities
 summary: Tracing the emergence of Digital Humanities (DH) through ten special and thematic issues of French journals.
 
 tags:
-- Digital humanities
+- Digital
 featured: true
 
 links:
