@@ -2,7 +2,7 @@
 title: "Ethically Responsible Knowledge Organization Systems: Towards an Intercultural User Interface"
 authors:
 - admin
-author_notes:
+#author_notes:
 #- "Equal contribution"
 date: "2017-09-01T00:00:00Z"
 doi: "10.36702/ZIN.364"
