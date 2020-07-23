@@ -15,8 +15,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: *11e Colloque international d’ISKO-France, Jul 2017, Paris, France*.
-publication_short: *11e Colloque international d’ISKO-France, Jul 2017, Paris, France*.
+publication: 11th *Biennial Conference of the French ISKO Chapter, July 2017, Paris, France*.
+publication_short: Epistemological and Theoretical Foundations of Information—Documentation Science&#58; A Tribute to Francophone Pioneers. 11th *Biennial Conference of the French ISKO Chapter, July 2017, Paris, France*
 
 abstract: The overall objective of this research is to provide a bibliometric analysis and to pave ways to define epistemic communities of Wikipedia research, which can be divided into four categories&#58; (1) Research that examines Wikipedia; (2) Research that uses information from Wikipedia; (3) Research that explores technical extensions to Wikipedia; and (4) Research that is using Wikipedia as a resource for communication
 
