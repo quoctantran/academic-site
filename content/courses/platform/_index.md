@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Platform society and infrastructures of everyday life (56-104) 
-summary: This course encourages students to engage in case-based scenario analysis, and pose critical questions concerning social implications of digital technologies. Using an infrastructure lens, we look closely at how the platform society has changed our everyday life by reconstructing power relations, establishing new modes of engagement and new forms of resistance. Do/will they act as agents of social change, and to what extent? (Summer Semester 2020)
+summary: Using the infrastructure lens, this course guides the students to look closely at how the platform society has changed our everyday life by reconstructing power relations, establishing new modes of engagement and new forms of resistance. Do/will they act as agents of social change, and to what extent? (Summer Semester 2020)
 weight: 1
 
 # Page metadata.

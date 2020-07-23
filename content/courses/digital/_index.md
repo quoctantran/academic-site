@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: Being digital&#58; Technologies, materiality and social construction (56-110)
-summary: In this seminar, the students will explore the relationship(s) between technology and society in two different, sometimes overlapping, ways&#58; how various social factors shape technological development, and how technological transformations are influencing social processes and shaping the discourses surrounding “being digital”. We will be concerned with the roles of institutions—multifaceted, durable social structures—in forming networks or constituencies, and the design of the material infrastructure that reflects the society in which we live. (Winter semester 2020/2021)
+linktitle: Being digital: Technologies, materiality and social construction (56-110)
+summary: Explore the relationship(s) between technology and society in two overlapping, ways&#58; how various social factors shape technological development, and how technological transformations are influencing social processes and shaping the discourses surrounding “being digital”. (Winter semester 2020/2021)
 weight: 1
 
 # Page metadata.
