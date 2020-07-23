@@ -30,9 +30,11 @@ tags:
 featured: true
 
 links:
-- name: Slides
-  url: publication/2017-aiucd/slides.pdf
-url_pdf: http://amsacta.unibo.it/5885/1/AIUCD_2017_BoA.pdf
+- name: Conference
+  url: http://www.iskoiberico.org/about-isko-porto-2018/
+- name: slides
+  url: 
+url_pdf: 
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
