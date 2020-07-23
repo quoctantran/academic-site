@@ -29,15 +29,15 @@ featured: true
 
 links:
 - name: Custom Link
-  url: https://hal.archives-ouvertes.fr/hal-01676660
+  url: 
 url_pdf: http://amsacta.unibo.it/5885/1/AIUCD_2017_BoA.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
 url_slides: https://tantran.netlify.app/publication/conf01/conf01-slides.pdf
-url_source: '#'
-url_video: '#'
+url_source: https://hal.archives-ouvertes.fr/hal-01676660
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
