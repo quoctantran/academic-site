@@ -28,15 +28,15 @@ tags:
 featured: true
 
 links:
-- name: Conference
-  url: http://aiucd2017.aiucd.it/?page_id=14
+- name: Slides
+  url: publication/2017-aiucd/slides.pdf
 url_pdf: http://amsacta.unibo.it/5885/1/AIUCD_2017_BoA.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-url_slides: https://tantran.netlify.app/publication/conf01/conf01-slides.pdf
-url_source: https://hal.archives-ouvertes.fr/hal-01676660
+url_slides: slides/2020-achs/index.md
+#url_source: 
 #url_video: '#'
 
 # Featured image
@@ -59,7 +59,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: content/slides/2020-achs/index.md
+# slides: content/slides/2020-achs/index.md
 ---
 
 {{% alert note %}}
