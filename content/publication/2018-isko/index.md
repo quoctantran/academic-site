@@ -1,12 +1,12 @@
 ---
-title: "Knowledge Organization Systems and cultural interoperability in open humanitarian settings"
+title: "The emergence of the Digital Humanities: An epistemological cartography of thematic issues in French academic journals"
 authors:
 - admin
-date: "2018-07-01T00:00:00Z"
-doi: "10.5771/9783956504211-624"
+date: "2017-07-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,7 +15,7 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In F. Ribeiro & M. E. Cerveira (Eds.), *Advances in Knowledge Organization:\ Vol. 16. Challenges and Opportunities for Knowledge Organization in the Digital Age:\ Proceedings of the Fifteenth Interantional ISKO Conference 9-11 July 2018 Porto, Portugal* (pp. 624–632). Würzburg:\ Ergon. 
+publication: In F. Ciotti & G. Crupi (Eds.), *AIUCD 2017 Conference&#58; Il telescopio inverso&#58; Big data e distant reading nelle discipline umanistiche* (pp. 161–166). Florence&#58; Associazione per l’Informatica Umanistica e la Cultura Digitale.
 publication_short: In F. Ciotti & G. Crupi (Eds.), *AIUCD 2017 Conference&#58; Il telescopio inverso&#58; Big data e distant reading nelle discipline umanistiche* (pp. 161–166). Florence&#58; AIUCD
 
 abstract: In this paper, we attempt to trace the emergence of Digital Humanities (DH) through ten special and thematic issues of French academic journals. The aim is to map the emerging practices and the dynamics of this phenomenon, in terms of research, knowledge production and knowledge dissemination, and the modalities that allow DH to develop new social and editorial assignments.
@@ -24,9 +24,8 @@ abstract: In this paper, we attempt to trace the emergence of Digital Humanities
 summary: Tracing the emergence of Digital Humanities (DH) through ten special and thematic issues of French journals.
 
 tags:
-- knowledge organization
-- cultural interoperability
-- user interfaces
+- Digital Humanities
+- knowledge production
 featured: true
 
 links:
