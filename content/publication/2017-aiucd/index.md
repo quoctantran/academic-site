@@ -35,7 +35,7 @@ url_pdf: http://amsacta.unibo.it/5885/1/AIUCD_2017_BoA.pdf
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-url_slides: slides/2020-achs/index.md
+#url_slides: slides/2020-achs/index.md
 #url_source: 
 #url_video: '#'
 
