@@ -17,7 +17,7 @@ publishDate: "2017-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ZIN. Issues in Information Science, 55*(2)"
+publication: "*ZIN. Information Studies, 55*(2)"
 publication_short: ""
 
 abstract: This paper discusses the challenges of creating a theoretic framework within the context of an intercultural and ethically responsible knowledge organization system (KOS). First, the paper explores ethical and societal concerns linked to the development of KOS. Second, it illustrates a way to tackle this ethical factor by proposing an applicable architecture for intercultural interfaces which respects cultural diversity on a global scale. The author emphasizes the importance of opening up the notion of cultural inclusiveness, to weigh not only linguistic diversity but also other cultural and social aspects, such as geography, religious affiliations, tradition, historical elements, ethnic. This kind of approach should be attentive to intersectionality and cultural interoperability.
@@ -67,5 +67,5 @@ projects: []
 ---
 
 {{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to import publication metadata in BibTeX format into your reference management software. 
 {{% /alert %}}

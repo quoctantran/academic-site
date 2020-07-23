@@ -68,7 +68,7 @@ projects:
 ---
 
 {{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to import publication metadata in BibTeX format into your reference management software. 
 {{% /alert %}}
 
 

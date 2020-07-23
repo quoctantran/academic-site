@@ -3,7 +3,7 @@ title: "The emergence of the Digital Humanities: An epistemological cartography 
 authors:
 - admin
 date: "2017-07-01T00:00:00Z"
-doi: ""
+doi: "10.5281/zenodo.1098293"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -33,7 +33,7 @@ links:
   url: http://aiucd2017.aiucd.it
 - name: Slides
   url: publication/2017-aiucd/2017-aiucd-slides.pdf
-url_pdf: http://amsacta.unibo.it/5885/1/AIUCD_2017_BoA.pdf
+url_pdf: publication/2017-aiucd/2017-aiucd.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
@@ -66,7 +66,7 @@ projects:
 ---
 
 {{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to import publication metadata in BibTeX format into your reference management software. 
 {{% /alert %}}
 
 
