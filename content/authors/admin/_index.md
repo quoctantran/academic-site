@@ -54,4 +54,4 @@ user_groups:
 - Visitors
 
 ---
-Quoc-Tan Tran is a PhD fellow at the Institute of European Ethnology/Cultural Anthropology, University of Hamburg (Germany). Being part of the Marie Skłodowska-Curie EU H2020 Project POEM, his doctoral research investigates the qualities of digital infrastructures that support and facilitate participatory memory work. He holds a Bachelor's in Information Systems from Swinburne University of Technology (Australia) and a Master of Research in Library and Information Science from the University of Lille (France).
+Quoc-Tan Tran is a PhD fellow at the Institute of European Ethnology/Cultural Anthropology, University of Hamburg (Germany). Being part of the Marie Skłodowska-Curie EU H2020 Project POEM, his doctoral research investigates the qualities of digital infrastructures that support and facilitate participatory memory work. He holds a double Bachelor's degree, Business Information Systems and Business (Finance), from Swinburne University of Technology (Australia) and a Master of Research in Library and Information Science from the University of Lille (France).
