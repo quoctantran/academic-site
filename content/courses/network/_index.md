@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Networked culture &#58; Information, network society and new forms of knowledge (56-107)
+linktitle: "Networked culture: Information, network society and new forms of knowledge (56-107)"
 summary: Explore how the development of digital information infrastructure has paved the way for new types of social methods and forms of knowledge. What is sharing and how is sharing mediated? The bridge to a networked culture entails the necessary technologies to promote linkages, collaboration, and more democratic dialogue between institutions and the public. (Winter semester 2019/2020)
 weight: 1
 

@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Being digital &#58; Technologies, materiality and social construction (56-110)
+linktitle: "Being digital: Technologies, materiality and social construction (56-110)"
 summary: Explore the relationship(s) between technology and society in two overlapping, ways&#58; how various social factors shape technological development, and how technological transformations are influencing social processes and shaping the discourses surrounding “being digital”. (Winter semester 2020/2021)
 weight: 1
 

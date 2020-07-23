@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Platform society and infrastructures of everyday life (56-104) 
-summary: Using the infrastructure lens, this course guides the students to look closely at how the platform society has changed our everyday life by reconstructing power relations, establishing new modes of engagement and new forms of resistance. Do/will they act as agents of social change, and to what extent? (Summer Semester 2020)
+summary: This course guides the students to examine how the platform society has changed our everyday life. Does it do that by reconstructing power relations, establishing new modes of engagement and new forms of resistance? Who act as agents of social change, and to what extent? (Summer Semester 2020)
 weight: 1
 
 # Page metadata.
