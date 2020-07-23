@@ -16,12 +16,12 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Source Themes Conference*
-publication_short: In *Proceedings of AIUCD 2017 Conference & 3rd EADH Day, Rome, Italy*, p. 179-184.
+publication_short: In F. Ciotti & G. Crupi (Eds.), *AIUCD 2017 Conference: Il telescopio inverso: Big data e distant reading nelle discipline umanistiche* (pp. 161–166). Florence: Associazione per l’Informatica Umanistica e la Cultura Digitale
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, we attempt to trace the emergence of Digital Humanities (DH) through ten special and thematic issues of French academic journals. The aim is to map the emerging practices and the dynamics of this phenomenon, in terms of research, knowledge production and knowledge dissemination, and the modalities that allow DH to develop new social and editorial assignments.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Tracing the emergence of Digital Humanities (DH) through ten special and thematic issues of French journals.
 
 tags:
 - Source Themes
@@ -30,12 +30,12 @@ featured: true
 links:
 - name: Custom Link
   url: https://hal.archives-ouvertes.fr/hal-01676660
-url_pdf: https://hal.archives-ouvertes.fr/hal-01676660/document
+url_pdf: http://amsacta.unibo.it/5885/1/AIUCD_2017_BoA.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
-url_slides: ''
+url_slides: 'publication/conf01/aiucd-slides'
 url_source: '#'
 url_video: '#'
 
