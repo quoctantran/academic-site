@@ -1,15 +1,15 @@
 ---
 # Course title, summary, and position.
-linktitle: Platform
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials. 111
+linktitle: Platform society and infrastructures of everyday life (56-104) 
+summary: This course encourages students to engage in case-based scenario analysis, and pose critical questions concerning social implications of digital technologies. Using an infrastructure lens, we look closely at how the platform society has changed our everyday life by reconstructing power relations, establishing new modes of engagement and new forms of resistance. Do/will they act as agents of social change, and to what extent? (Summer Semester 2020)
 weight: 1
 
 # Page metadata.
 title: Overview
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
+date: "2020-04-09T00:00:00Z"
+lastmod: "2020-04-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.

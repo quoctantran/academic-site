@@ -41,10 +41,7 @@ education:
   - course: MRes in Library and Information Science
     institution: University of Lille
     year: "2016"
-  - course: BA in Business Information Systems
-    institution: Swinburne University of Technology
-    year: "2012"
-  - course: BA in Business (majored in Finance)
+  - course: Double BA in Business Information Systems & Finance
     institution: Swinburne University of Technology
     year: "2012"
 email: 'quoc-tan.tran@uni-hamburg.de'

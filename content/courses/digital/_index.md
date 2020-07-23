@@ -1,13 +1,13 @@
 ---
 # Course title, summary, and position.
-linktitle: Platform
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials. 111
+linktitle: Being digital&#58; Technologies, materiality and social construction (56-110)
+summary: In this seminar, the students will explore the relationship(s) between technology and society in two different, sometimes overlapping, ways&#58; how various social factors shape technological development, and how technological transformations are influencing social processes and shaping the discourses surrounding “being digital”. We will be concerned with the roles of institutions—multifaceted, durable social structures—in forming networks or constituencies, and the design of the material infrastructure that reflects the society in which we live. (Winter semester 2020/2021)
 weight: 1
 
 # Page metadata.
 title: Overview
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
+date: "2020-06-09T00:00:00Z"
+lastmod: "2020-06-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
