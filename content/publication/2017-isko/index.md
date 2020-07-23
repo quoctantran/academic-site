@@ -31,8 +31,8 @@ featured: true
 links:
 - name: Conference
   url: http://www.isko-france.asso.fr/colloque2017/en/homepage/
-#- name: HAL-Id
-#  url: https://hal.archives-ouvertes.fr/hal-01676673
+- name: HAL-Id
+  url: https://hal.archives-ouvertes.fr/hal-01676673
 url_pdf: publication/2017-isko/2017-isko.pdf
 #url_code: '#'
 #url_dataset: '#'
