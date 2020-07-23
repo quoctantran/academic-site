@@ -15,11 +15,10 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In F. Ribeiro & M. E. Cerveira (Eds.), *Advances in Knowledge Organization:\ Vol. 16. Challenges and Opportunities for Knowledge Organization in the Digital Age:\ Proceedings of the Fifteenth Interantional ISKO Conference 9-11 July 2018 Porto, Portugal* (pp. 624–632). Würzburg:\ Ergon. 
-publication_short: In F. Ribeiro & M. E. Cerveira (Eds.), *Advances in Knowledge Organization:\ Vol. 16. Challenges and Opportunities for Knowledge Organization in the Digital Age. Würzburg:\ Ergon 
+publication: In F. Ribeiro & M. E. Cerveira (Eds.), *Advances in Knowledge Organization&#58; Vol. 16. Challenges and Opportunities for Knowledge Organization in the Digital Age&#58; Proceedings of the Fifteenth Interantional ISKO Conference 9-11 July 2018 Porto, Portugal* (pp. 624–632). Würzburg&#58; Ergon. 
+publication_short: In F. Ribeiro & M. E. Cerveira (Eds.), *Advances in Knowledge Organization&#58; Vol. 16. Challenges and Opportunities for Knowledge Organization in the Digital Age. Würzburg&#58; Ergon 
 
 abstract: In this paper, we discuss the use of KOS to support humanitarian data, the importance of interoperability, and the need for equal treatment of different languages, communities, and cultures. The case of the Rohingya refugee crisis in Myanmar is used to illustrate significant multilingual, cross-cultural, and social issues in knowledge representation in humanitarian settings.
-
 
 # Summary. An optional shortened abstract.
 summary: Discussing multilingual, cross-cultural, and social issues in knowledge representation in humanitarian settings.
