@@ -28,8 +28,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: 
+- name: Conference
+  url: http://aiucd2017.aiucd.it/?page_id=14
 url_pdf: http://amsacta.unibo.it/5885/1/AIUCD_2017_BoA.pdf
 #url_code: '#'
 #url_dataset: '#'
@@ -59,7 +59,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: content/slides/2020-achs/index.md
 ---
 
 {{% alert note %}}
