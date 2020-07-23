@@ -10,6 +10,7 @@ slides:
   theme: black
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
+marp: true
   highlight_style: dracula
 ---
 
