@@ -30,9 +30,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:quoc-tan.tran@uni-hamburg.de
-- icon: cv
-  icon_pack: ai
-  link: https://tantran.netlify.app/home/Tan_Tran_CV.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: https://tantran.netlify.app/home/Tan_Tran_CV.pdf
 education:
   courses:
   - course: PhD in Cultural Anthropology
