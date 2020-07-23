@@ -21,7 +21,7 @@ publication_short: In F. Ciotti & G. Crupi (Eds.), *AIUCD 2017 Conference&#58; I
 abstract: In this paper, we attempt to trace the emergence of Digital Humanities (DH) through ten special and thematic issues of French academic journals. The aim is to map the emerging practices and the dynamics of this phenomenon, in terms of research, knowledge production and knowledge dissemination, and the modalities that allow DH to develop new social and editorial assignments.
 
 # Summary. An optional shortened abstract.
-summary: Tracing the emergence of Digital Humanities (DH) through ten special and thematic issues of French journals.
+summary: This paper traces the emergence of Digital Humanities (DH) through ten special and thematic issues of French journals.
 
 tags:
 - Digital Humanities

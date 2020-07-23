@@ -21,7 +21,7 @@ publication_short: In F. Ribeiro & M. E. Cerveira (Eds.), *Advances in Knowledge
 abstract: In this paper, we discuss the use of KOS to support humanitarian data, the importance of interoperability, and the need for equal treatment of different languages, communities, and cultures. The case of the Rohingya refugee crisis in Myanmar is used to illustrate significant multilingual, cross-cultural, and social issues in knowledge representation in humanitarian settings.
 
 # Summary. An optional shortened abstract.
-summary: Discussing multilingual, cross-cultural, and social issues in knowledge representation in humanitarian settings.
+summary: This paper examines multilingual, cross-cultural, and social issues in knowledge representation in humanitarian settings.
 
 tags:
 - knowledge organization

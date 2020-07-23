@@ -21,7 +21,7 @@ publication_short: Epistemological and Theoretical Foundations of Information—
 abstract: The overall objective of this research is to provide a bibliometric analysis and to pave ways to define epistemic communities of Wikipedia research, which can be divided into four categories&#58; (1) Research that examines Wikipedia; (2) Research that uses information from Wikipedia; (3) Research that explores technical extensions to Wikipedia; and (4) Research that is using Wikipedia as a resource for communication
 
 # Summary. An optional shortened abstract.
-summary: Providing a bibliometric analysis and to pave ways to define epistemic communities of Wikipedia research
+summary: This poster provides a bibliometric analysis and to pave ways to define epistemic communities of Wikipedia research.
 
 tags:
 - Wikipedia
