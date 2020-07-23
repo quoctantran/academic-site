@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Platform society and infrastructures of everyday life (56-104) 
+linktitle: [Platform society and infrastructures of everyday life (56-104)] (https://tiny.cc/56-104) 
 summary: This course guides the students to examine how the platform society has changed our everyday life. Does it do that by reconstructing power relations, establishing new modes of engagement and new forms of resistance? Who act as agents of social change, and to what extent? (Summer Semester 2020)
 weight: 1
 
