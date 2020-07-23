@@ -24,7 +24,8 @@ abstract: In this paper, we attempt to trace the emergence of Digital Humanities
 summary: Tracing the emergence of Digital Humanities (DH) through ten special and thematic issues of French journals.
 
 tags:
-- Digital Humanities, knowledge production
+- Digital Humanities
+- knowledge production
 featured: true
 
 links:
@@ -66,5 +67,5 @@ projects:
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
