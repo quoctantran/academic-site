@@ -19,4 +19,6 @@ image:
   filename: boy-and-sail-magnus_enckell-.jpg
   preview_only: false
 ---
-Click [here](https://medium.com/open-glam/museums-caring-in-covid-5f0972f40b0c) to read my article in OpenGLAM Medium.
+My new article on ✨ [#OpenGLAM](https://www.linkedin.com/feed/hashtag/?keywords=openglam&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6686547392562520064) Medium ✨
+
+Looking at museums' accessibility issue in the time of COVID-19, I emphasize care as opening up ourselves to the vulnerability of systems and the risks of failure. I give some examples of reaching out to a wider audience through sharing cultural heritage data more openly.
